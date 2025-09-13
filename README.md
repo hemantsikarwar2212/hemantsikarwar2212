@@ -2,10 +2,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=https://github.com/hemantsikarwar2212/&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=https://github.com/hemantsikarwar2212/&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
 
 ###
 
@@ -47,7 +44,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/https://github.com/hemantsikarwar2212//https://github.com/hemantsikarwar2212//output/snake.svg" alt="Snake animation" />
 
 ###
