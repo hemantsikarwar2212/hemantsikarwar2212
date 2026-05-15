@@ -20,11 +20,7 @@
   </a> </p>
 <img align="center" height="200" src="https://i.pinimg.com/originals/ec/5f/37/ec5f377a267f9e999a5f4b13bd0fb102.gif"  />
 <br><br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemantsikarwar2212&show_icons=true&locale=en&layout=compact" alt="hemantsikarwar2212" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemantsikarwar2212&show_icons=true&locale=en" alt="hemantsikarwar2212" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemantsikarwar2212&" alt="hemantsikarwar2212" />
 <!-- ############################################################ -->
 
 <div align="left">
